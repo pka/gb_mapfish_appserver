@@ -4,6 +4,8 @@ Mapfish Appserver
 Mapfish Appserver is a platform for building web mapping applications
 using OGC standards and the Mapfish REST protocol.
 
+![image](images/maps-zh.png)
+
 Features
 --------
 
