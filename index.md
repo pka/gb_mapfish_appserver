@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Mapfish Appserver
+name: Mapfish Appserver
+tagline: Mapfish Appserver is a platform for building web mapping applications
 ---
 
 Mapfish Appserver
