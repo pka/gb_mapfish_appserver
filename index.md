@@ -1,3 +1,8 @@
+---
+layout: page
+title: Mapfish Appserver
+---
+
 Mapfish Appserver
 =================
 
