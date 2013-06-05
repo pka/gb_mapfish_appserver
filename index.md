@@ -1,4 +1,5 @@
 ---
+layout: architect
 name: Mapfish Appserver
 tagline: Mapfish Appserver is a platform for building web mapping applications
 ---
