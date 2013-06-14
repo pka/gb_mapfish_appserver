@@ -4,7 +4,7 @@ title: Quick-start guide
 ---
 
 Quick-start guide
------------------
+=================
 
 To build a new Mapfish Appserver application, create a Rails application
 and include mapfish\_appserver in your Gemfile:
