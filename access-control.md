@@ -44,7 +44,7 @@ Administration page with links to all topics with self-administration: http://lo
 
 Signup link example for a user: http://localhost:3000/session/sign_up?group=forest_editors
 
-Vorbereitung:
+Preparation:
 
 -   Create roles. E.g. exampleedit, exampleview and exampleadmin
     Assign one ore more users the exampleadmin role
@@ -53,9 +53,10 @@ Vorbereitung:
 -   If you add users manually to groups, don't forget to mark the membership 'granted' flag
 -   Assign permissions to the roles. E.g. exampleedit is allowed to edit a the example topic
 -   Set permission for action 'edit' of resource type 'Group' for admin role. E.g. role exampleadmin for group examplegroupedit und examplegroupview
--   Send signup URL for groups to invited users
 
 Extend registration forms with group specific fields:
 
 -   Add a partial _app_infos.html.erb with specific fields in directory app/views/registrationsGROUPNAME 
 -   Add a group specific mail test in _app/views/groups_users/mails/_GROUPNAME.html.erb
+
+Send signup URL for groups to invited users.
